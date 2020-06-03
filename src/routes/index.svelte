@@ -49,7 +49,7 @@
   <h2>☆ About Ps Touch Apk Download ☆</h2>
   <img
     src="ps touch apk download.webp"
-    alt="" class="relative "/>
+    alt="" class=""/>
   <p>
     Adobe Photoshop Touch is an advanced photo editing application for mobile
     operating systems. At the moment, it is available on Android and iOS. The
