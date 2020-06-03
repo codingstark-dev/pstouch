@@ -1,12 +1,16 @@
 <style>
-  h2 {
-    @apply p-2;
+  h1 {
+    @apply text-h1 text-center font-semibold pt-5;
   }
+  h2 {
+    @apply text-h2 font-semibold text-center pt-5;
+  }
+
   p {
-    @apply p-2;
+    @apply pt-6 text-base  font-normal;
   }
   a {
-    @apply text-pscolor;
+    @apply text-pslite font-semibold;
   }
 </style>
 
@@ -14,7 +18,8 @@
 
 <p>
   If you require any more information or have any questions about our site's
-  disclaimer, please feel free to contact us by email at mhimanshu.338@gmail.com
+  disclaimer, please feel free to contact us by email at
+  <a href="mailto:mhimanshu.338@gmail.com">mhimanshu.338@gmail.com</a>
 </p>
 
 <h2>Disclaimers for pstouchapk</h2>
@@ -27,9 +32,13 @@
   (pstouchapk), is strictly at your own risk. pstouchapk will not be liable for
   any losses and/or damages in connection with the use of our website. Our
   Disclaimer was generated with the help of the
-  <a href="https://www.disclaimergenerator.net/">Disclaimer Generator</a>
+  <a href="https://www.disclaimergenerator.net/" target="_blank" rel="nofollow">
+    Disclaimer Generator
+  </a>
   and the
-  <a href="https://www.disclaimer-generator.com">Disclaimer Generator</a>
+  <a href="https://www.disclaimer-generator.com" target="_blank" rel="nofollow">
+    Disclaimer Generator
+  </a>
   .
 </p>
 

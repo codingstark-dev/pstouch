@@ -1,28 +1,31 @@
 <style>
-h2{
-    @apply p-2;
-}
-p{
-    @apply p-2; 
-}
-a{
-     @apply text-pscolor;
-}
+
+  p {
+    @apply pt-6 text-base  font-normal;
+  }
+  a {
+    @apply text-pslite font-semibold;
+  }
+  span {
+    @apply text-pscolor font-semibold;
+  }
 </style>
+
 <div>
   <p>
-    <a href="https://www.modapkly.com">ModApkly.com</a>
+    <a href="https://Pstouchapk.com">Pstouchapk</a>
     – DMCA Policy
   </p>
   <p>
-    Filemay.com is in compliance with 17 U.S.C. § 512 and the Digital Millennium
-    Copyright Act (“DMCA”). It is our policy to respond to any infringement
-    notices and take appropriate actions under the Digital Millennium Copyright
-    Act (“DMCA”) and other applicable intellectual property laws.
+    Pstouchapk.com is in compliance with 17 U.S.C. § 512 and the Digital
+    Millennium Copyright Act (“DMCA”). It is our policy to respond to any
+    infringement notices and take appropriate actions under the Digital
+    Millennium Copyright Act (“DMCA”) and other applicable intellectual property
+    laws.
   </p>
   <p>
     If your copyrighted material has been posted on
-    <span style="color: #ff0000;">ModApkly.com</span>
+    <span>Pstouchapk</span>
     or if links to your copyrighted material are returned through our search
     engine and you want this material removed, you must provide a written
     communication that details the information listed in the following section.
@@ -46,7 +49,7 @@ a{
     You must identify in sufficient detail the copyrighted work claimed to have
     been infringed and including at least one search term under which the
     material appears in
-    <span style="color: #ff0000;">Modapkly.com</span>
+    <span>Pstouchapk</span>
     search results.
   </p>
   <p>

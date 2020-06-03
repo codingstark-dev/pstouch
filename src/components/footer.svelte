@@ -1,6 +1,4 @@
-<script>
-  import Tailwindcss from "./../routes/Tailwindcss.svelte";
-</script>
+
 
 <style>
   footer {
@@ -31,7 +29,7 @@
       <a href="dmca" class="hover:text-pslite">DMCA</a>
     </div>
     <div class="texts">
-      <a href="contact" class="hover:text-pslite">Contact Us</a>
+      <a href="mailto:refoxdev@gmail.com" target="_blank" rel="nofollow" class="hover:text-pslite">Contact Us</a>
     </div>
   </div>
   <div class="copyright ">

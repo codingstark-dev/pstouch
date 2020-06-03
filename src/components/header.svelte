@@ -1,5 +1,5 @@
 <style>
-  .container img {
+  img {
     width: 50px;
     height: 50px;
   }
@@ -18,11 +18,13 @@
   <div
     class="container mx-auto bg-white flex md:justify-between md:items-center
     md:py-2 z-50 top-0 sticky text-center rounded shadow py-1">
+
+    <div class="text-right flex-1 py-3 px-1 logotxt" />
     
-      <div class="text-right flex-1 py-3 px-1 logotxt" />
-   <a href="/">   <img src="images/pstouchapk.webp" alt="" class="logo" /></a>
+      <img src="images/pstouchapk.png" alt="" class="logo" />
+
       <div class="text-left flex-1 py-3 px-1 logotxt">Touch</div>
-    
+   
   </div>
 
 </header>

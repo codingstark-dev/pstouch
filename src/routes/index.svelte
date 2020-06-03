@@ -1,5 +1,7 @@
-<script>
-  import Tailwindcss from "./Tailwindcss.svelte";
+<script context="module">
+  export function preload({ params, query }) {
+    return this.fetch("sitemap.xml");
+  }
 </script>
 
 <style>
@@ -16,25 +18,77 @@
     @apply text-h1 text-center font-semibold pt-5;
   }
   h2 {
-    @apply text-h2 font-semibold text-center;
+    @apply text-h2 font-semibold text-center pt-5;
   }
   h3 {
-    @apply text-h3 font-bold text-center;
+    @apply text-h3 font-bold text-center pt-5;
   }
   p {
-    @apply py-6 text-base  font-normal;
+    @apply pt-6 text-base  font-normal;
   }
-  img {
+  span {
+    @apply text-pscolor font-bold;
+  }
+  .banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     @apply pl-6 pr-5 pt-6;
+  }
+  .pslogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    @apply max-w-icon py-6;
+  }
+  table#table1 {
+    /* width:70%;  */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  a {
+    @apply text-pslite font-semibold;
   }
 </style>
 
 <svelte:head>
   <title>Adobe Photoshop Ps Touch Apk Download [100% Working]</title>
   <!-- <meta http-equiv="Cache-control" content="public" /> -->
+  <link rel="canonical" href="https://pstouchapk.com" />
+  <meta
+    name="keywords"
+    content="Ps Touch Apk Download, Ps Touch Apk,Adobe Photoshop Touch Apk" />
 
+  <meta
+    name="description"
+    content="Latest Ps Touch Apk download now with many features unlocked in
+    9.9.9 version also pie version supported Adobe photoshop Touch Apk" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://pstouchapk.com" />
+  <meta
+    property="og:title"
+    content="Adobe Photoshop Ps Touch Apk Download [100% Working]" />
+  <meta
+    property="og:description"
+    content="Latest Ps Touch Apk download now with many features unlocked in
+    9.9.9 version also pie version supported Adobe photoshop Touch Apk" />
+  <meta property="og:image" content="ps touch apk download.webp" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://pstouchapk.com" />
+  <meta
+    property="twitter:title"
+    content="Adobe Photoshop Ps Touch Apk Download" />
+  <meta
+    property="twitter:description"
+    content="Latest Ps Touch Apk download now with many features unlocked in
+    9.9.9 version also pie version supported Adobe photoshop Touch Apk" />
+  <meta property="twitter:image" content="ps touch apk download.webp" />
 </svelte:head>
-<Tailwindcss />
+<!-- <Tailwindcss /> -->
 
 <div class="preview">
   <h1>Adobe photoshop Ps Touch Apk Download [100% Working] ★</h1>
@@ -49,7 +103,8 @@
   <h2>☆ About Ps Touch Apk Download ☆</h2>
   <img
     src="ps touch apk download.webp"
-    alt="" class=""/>
+    alt="Ps Touch Apk download"
+    class="banner" />
   <p>
     Adobe Photoshop Touch is an advanced photo editing application for mobile
     operating systems. At the moment, it is available on Android and iOS. The
@@ -63,9 +118,9 @@
     creativity. In which, combining tools, color filters and drag bars are what
     you need to do to create a beautiful picture.
   </p>
-  <h2>The key features of Ps Touch Apk</h2>
+  <h2>The main key features of Ps Touch Apk</h2>
   <p>Lets talk about there key features of Ps Touch Apk :</p>
-  <h3>1. The simplified interface</h3>
+  <h3>1. The simplified interface and easy to use</h3>
   <p>
     If you have ever used Photoshop software on a PC, it is not difficult to get
     the positions of the toolbars. Also, the app&rsquo;s interface has been
@@ -103,7 +158,9 @@
   <h3>4. Create funny photos</h3>
   <p>
     Adobe
-    <a href="https://www.photoshop.com/" target="_blank">Photoshop</a>
+    <a href="https://www.photoshop.com/" rel="nofollow" target="_blank">
+      Photoshop
+    </a>
     Touch supports the in-app snapshot. You can combine any image into a
     portrait or landscape photograph for more fun. Imagine that you wore a
     pirate hat or there would be a lion behind. This is interesting. Also,
@@ -154,44 +211,100 @@
     can be a challenge for inexperienced users.
   </p>
   <p>
-    Understanding this, the developer Adobe has integrated a detailed
-    instruction right from the home screen so that you can access them at any
-    time. Many people still believe that the instructions included in Tutorials
-    are all features of the application. But these are just suggestions to help
-    users make good modifications. You can completely create new changes by
-    changing the editing parameters or using different tools together.
+    Understanding this, the developer
+    <a href="https://www.adobe.com/in/" target="_blank" rel="nofollow">Adobe</a>
+    has integrated a detailed instruction right from the home screen so that you
+    can access them at any time. Many people still believe that the instructions
+    included in Tutorials are all features of the application. But these are
+    just suggestions to help users make good modifications. You can completely
+    create new changes by changing the editing parameters or using different
+    tools together.
   </p>
   <h2>Download Ps Touch Apk</h2>
-  <table class="table-fixed">
-  <tbody>
-    <tr>
-      <td class="border px-4 py-2">App Name:</td>
-      <td class="border px-4 py-2">Adobe Photoshop Touch</td>
-     
-    </tr>
-    <tr>
-      <td class="border border-gray px-4 py-2">Size:</td>
-      <td class="border px-4 py-2">23MB</td>
-    
-    </tr>
-    <tr>
-      <td class="border px-4 py-2">Intro to JavaScript</td>
-      <td class="border px-4 py-2">Chris</td>
-     
-    </tr>
-  </tbody>
-</table>
+  <div class="text-center">
+    <img
+      src="ps touch apk download latest.webp"
+      alt="Ps Touch Apk download"
+      class="pslogo" />
+  </div>
+  <table class="table-auto" id="table1">
+    <tbody>
+      <tr>
+        <td class="border px-4 py-2">
+          <strong>App Name:</strong>
+
+        </td>
+        <td class="border px-4 py-2">Adobe Photoshop Touch</td>
+
+      </tr>
+      <tr>
+        <td class="border border-gray px-4 py-2">
+          <strong>Size:</strong>
+        </td>
+        <td class="border px-4 py-2">23MB</td>
+
+      </tr>
+      <tr>
+        <td class="border px-4 py-2">
+          <strong>Version:</strong>
+        </td>
+        <td class="border px-4 py-2">v9.9.9</td>
+
+      </tr>
+      <tr>
+        <td class="border px-4 py-2">
+          <strong>Mod Features:</strong>
+        </td>
+        <td class="border px-4 py-2">[Unlocked, Ad-free]</td>
+      </tr>
+    </tbody>
+  </table>
   <br />
+  <div class="text-center">
+    <button
+      class="bg-white hover:bg-pslite text-pslite hover:text-white font-semibold
+      py-2 px-4 border border-pscolor rounded shadow justify-center
+      focus:outline-none focus:shadow-outline">
+      Download Apk
+    </button>
+  </div>
+  <br />
+  <!-- <iframe
+    width="100%"
+    height="300" class=""
+    title="Ps Touch Apk Tutorials"
+    src="https://www.youtube.com/embed/LBF1Y63A0n0"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope;
+    picture-in-picture"
+    allowfullscreen /> -->
+
   <h3>How to download and install?</h3>
   <p>
     Adobe has announced that they no longer develop Adobe Photoshop Touch. That
     means there won&rsquo;t be any future updates. Besides, the developer will
-    focus on other products, Adobe Photoshop Express Premium and Adobe
-    Lightroom. In general, this is not too bad because Adobe Photoshop Touch can
-    still provide photo editing tools that are good enough for every user
-    experience. You will of course not be able to find it on Play Store or App
-    Store but we can still help you install and use it for free. Please follow
-    our instructions below:
+    focus on other products,
+    <a
+      href="https://www.adobe.com/in/products/photoshop-express.html"
+      rel="nofollow"
+      target="_blank">
+      Adobe Photoshop Express
+    </a>
+    Premium and
+    <a href="https://lightroom.adobe.com/" rel="nofollow" target="_blank">
+      Adobe Lightroom
+    </a>
+    . In general, this is not too bad because Adobe Photoshop Touch can still
+    provide photo editing tools that are good enough for every user experience.
+    You will of course not be able to find it on
+    <a
+      href="https://play.google.com/store/apps/dev?id=4734916851270416020"
+      rel="nofollow"
+      target="_blank">
+      PlayStore
+    </a>
+    or App Store but we can still help you install and use it for free. Please
+    follow our instructions below:
   </p>
   <p>
     Download the APK file we provide below and then save it to your device.
@@ -217,5 +330,27 @@
     12 megapixels, making it possible for users to create a high-resolution
     picture. Many advanced features are waiting for you to explore. You can
     download the application at the link below.
+  </p>
+  <h2>Some reviews on Adobe Photoshop Touch</h2>
+  <p>
+    <span>Spartan 117 Bat -</span>
+    Ps Touch App is very easy to use and even the free version comes with a
+    majority of the features you will need 90% of the time when editing photos.
+    Tutorials are available for beginners from community photographers which may
+    help you get used to the already easy app.
+  </p>
+  <p>
+    <span>Asish kumar Bhanja -</span>
+    For every photo u need this little correction of colors that expresses your
+    thoughts through it. And this app is the best colour correction app. Don't
+    have to think before download. Just make it free full featured mode.. I
+    swear I'll marry this app.
+  </p>
+  <p>
+    <span>Anu Maria -</span>
+    A perfect app for editing photos . I'm well satisfied with its features. It
+    gives the finest look to my photos after editing. If you like photography(
+    especially nature photography)and haven't installed this app,you really
+    gotta try it !
   </p>
 </div>

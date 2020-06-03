@@ -42,8 +42,13 @@ module.exports = {
             grey: "#dfe8f4",
             secondary: "#ffed4a",
             danger: "#e3342f",
+            pscolor: "#192a93",
+            pslite: "#2f41b7",
         }),
+        maxWidth: {
+            icon: "8rem",
+        },
     },
-    variants: {},
+    variants: { backgroundColor: ["responsive", "hover", "focus", "active"] },
     plugins: [],
 };
