@@ -34,7 +34,7 @@
   </div>
   <div class="copyright ">
     © Pstouchapk.com Partner with
-    <a href="https://modapkly.com" target="_blank" rel="dofollow" class="hover:text-pscolor">  
+    <a href="https://modapkly.com" target="_blank" rel="noopener"` class="hover:text-pscolor">  
      ModApkly.com
     </a>
     ʕ•ᴥ•ʔ

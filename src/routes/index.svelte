@@ -2,37 +2,6 @@
   export function preload({ params, query }) {
     return this.fetch("sitemap.xml");
   }
-  let jsonld = {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    mainEntityOfPage: {
-      "@type": "WebPage",
-      "@id": "https://pstouchapk.com"
-    },
-    headline: "Adobe photoshop Ps Touch Apk Download [100% Working] ★",
-    description:
-      "Latest Ps Touch Apk download now with many features unlocked in 9.9.9 version also pie version supported Adobe photoshop Touch Apk",
-    image: "https://pstouchapk.com/ps%20touch%20apk%20download.webp",
-    author: {
-      "@type": "Person",
-      name: "PsTouchApk"
-    },
-    publisher: {
-      "@type": "Organization",
-      name: "PsTouchApk",
-      logo: {
-        "@type": "ImageObject",
-        url: "https://pstouchapk.com/images/pstouchapk.png",
-        width: 50,
-        height: 50
-      }
-    },
-    datePublished: "2020-06-03",
-    dateModified: "2020-06-04"
-  };
-  jsonld = JSON.stringify(jsonld);
-  let jsonldScript = `<script type="application/ld+json">${jsonld +
-    "<"}/script>`;
 </script>
 
 <style>
@@ -118,7 +87,6 @@
     content="Latest Ps Touch Apk download now with many features unlocked in
     9.9.9 version also pie version supported Adobe photoshop Touch Apk" />
   <meta property="twitter:image" content="ps touch apk download.webp" />
-  {@html jsonldScript}
 
 </svelte:head>
 <!-- <Tailwindcss /> -->
