@@ -262,12 +262,14 @@
   </table>
   <br />
   <div class="text-center">
-    <button
-      class="bg-white hover:bg-pslite text-pslite hover:text-white font-semibold
-      py-2 px-4 border border-pscolor rounded shadow justify-center
-      focus:outline-none focus:shadow-outline">
-      Download Apk
-    </button>
+    <a href="https://bit.ly/pstouchapk1" rel="noopener">
+      <button
+        class="bg-white hover:bg-pslite text-pslite hover:text-white
+        font-semibold py-2 px-4 border border-pscolor rounded shadow
+        justify-center focus:outline-none focus:shadow-outline">
+        Download Apk
+      </button>
+    </a>
   </div>
   <br />
   <!-- <iframe
