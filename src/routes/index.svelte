@@ -84,9 +84,38 @@
     content="Adobe Photoshop Ps Touch Apk Download" />
   <meta
     property="twitter:description"
-    content="Latest Ps Touch Apk download now with many features unlocked in
-    9.9.9 version also pie version supported Adobe photoshop Touch Apk" />
+    content="Latest Ps Touch Apk download now with many features unlocked in 9.9.9 version also pie version supported Adobe photoshop Touch Apk" />
   <meta property="twitter:image" content="ps touch apk download.webp" />
+
+   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pstouchapk.com"
+  },
+  "headline": "Adobe photoshop Ps Touch Apk Download [100% Working] ★",
+  "description": "Latest Ps Touch Apk download now with many features unlocked in 9.9.9 version also pie version supported Adobe photoshop Touch Apk",
+  "image": "https://pstouchapk.com/ps%20touch%20apk%20download.webp",  
+  "author": {
+    "@type": "Person",
+    "name": "PsTouchApk"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "PsTouchApk",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://pstouchapk.com/images/pstouchapk.png",
+      "width": 50,
+      "height": 50
+    }
+  },
+  "datePublished": "2020-06-03",
+  "dateModified": "2020-06-04"
+}
+</script>
 </svelte:head>
 <!-- <Tailwindcss /> -->
 
@@ -158,7 +187,7 @@
   <h3>4. Create funny photos</h3>
   <p>
     Adobe
-    <a href="https://www.photoshop.com/" rel="nofollow" target="_blank">
+    <a href="https://www.photoshop.com/"  rel="noopener" target="_blank">
       Photoshop
     </a>
     Touch supports the in-app snapshot. You can combine any image into a
@@ -212,7 +241,7 @@
   </p>
   <p>
     Understanding this, the developer
-    <a href="https://www.adobe.com/in/" target="_blank" rel="nofollow">Adobe</a>
+    <a href="https://www.adobe.com/in/" target="_blank" rel="noopener">Adobe</a>
     has integrated a detailed instruction right from the home screen so that you
     can access them at any time. Many people still believe that the instructions
     included in Tutorials are all features of the application. But these are
@@ -286,12 +315,12 @@
     focus on other products,
     <a
       href="https://www.adobe.com/in/products/photoshop-express.html"
-      rel="nofollow"
+      rel="noopener"
       target="_blank">
       Adobe Photoshop Express
     </a>
     Premium and
-    <a href="https://lightroom.adobe.com/" rel="nofollow" target="_blank">
+    <a href="https://lightroom.adobe.com/" rel="noopener" target="_blank">
       Adobe Lightroom
     </a>
     . In general, this is not too bad because Adobe Photoshop Touch can still
@@ -299,7 +328,7 @@
     You will of course not be able to find it on
     <a
       href="https://play.google.com/store/apps/dev?id=4734916851270416020"
-      rel="nofollow"
+      rel="noopener"
       target="_blank">
       PlayStore
     </a>

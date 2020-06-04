@@ -32,11 +32,11 @@
   (pstouchapk), is strictly at your own risk. pstouchapk will not be liable for
   any losses and/or damages in connection with the use of our website. Our
   Disclaimer was generated with the help of the
-  <a href="https://www.disclaimergenerator.net/" target="_blank" rel="nofollow">
+  <a href="https://www.disclaimergenerator.net/" target="_blank" rel="noopener">
     Disclaimer Generator
   </a>
   and the
-  <a href="https://www.disclaimer-generator.com" target="_blank" rel="nofollow">
+  <a href="https://www.disclaimer-generator.com" target="_blank" rel="noopener">
     Disclaimer Generator
   </a>
   .

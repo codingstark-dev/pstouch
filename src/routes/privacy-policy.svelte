@@ -55,7 +55,7 @@
 <p>
   For more general information on cookies, please read the "What Are Cookies"
   article on
-  <a href="https://www.cookieconsent.com/what-are-cookies/" target="_blank" rel="nofollow">
+  <a href="https://www.cookieconsent.com/what-are-cookies/" target="_blank" rel="noopener">
     Cookie Consent website
   </a>
   .
@@ -69,7 +69,7 @@
   www.website.com and other sites on the internet. However, visitors may choose
   to decline the use of DART cookies by visiting the Google ad and content
   network Privacy Policy at the following URL –
-  <a href="https://policies.google.com/technologies/ads" target="_blank" rel="nofollow">
+  <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">
     https://policies.google.com/technologies/ads
   </a>
 </p>
@@ -77,14 +77,14 @@
 <h2>Privacy Policies</h2>
 You may consult this list to find the Privacy Policy for each of the advertising
 partners of pstouchapk. Our Privacy Policy was created with the help of the
-<a href="https://www.privacypolicygenerator.org" target="_blank" rel="nofollow">
+<a href="https://www.privacypolicygenerator.org" target="_blank" rel="noopener">
   Free Privacy Policy Generator
 </a>
 and the
 <a
   href="https://www.privacypolicyonline.com/privacy-policy-generator/"
   target="_blank"
-  rel="nofollow">
+  rel="noopener">
   Privacy Policy Generator Online
 </a>
 .
