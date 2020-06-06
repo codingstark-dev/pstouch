@@ -21,7 +21,7 @@
 
     <div class="text-right flex-1 py-3 px-1 logotxt" />
     
-      <img src="images/pstouchapk.png" alt="" class="logo" />
+      <img src="images/pstouchapk.png" alt="Ps Touch Apk download" class="logo" />
 
       <div class="text-left flex-1 py-3 px-1 logotxt">Touch</div>
    
