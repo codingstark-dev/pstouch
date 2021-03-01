@@ -262,7 +262,7 @@
   </table>
   <br />
   <div class="text-center">
-    <a href="https://bit.ly/pstouchapk1" rel="noopener">
+    <a href="https://www.modapkly.com/download/5163/" rel="noopener">
       <button
         class="bg-white hover:bg-pslite text-pslite hover:text-white
         font-semibold py-2 px-4 border border-pscolor rounded shadow
